@@ -1,8 +1,8 @@
 # Wave Height Prediction Project 🌊🚀
 
 ## Authors
-- **Miguel Diaz**
-- **Dante Schrantz**
+- **[Miguel Diaz](https://github.com/migueldiazpdj)**
+- **[Dante Schrantz](https://github.com/DanteSc03)**
 
 ## Overview
 In this project, we used a dataset collected from a buoy located near the entrance to the Ría and port of A Coruña. The dataset contains environmental and oceanographic conditions measured over the past year. Our primary goal was to predict significant wave height using advanced machine learning models.
